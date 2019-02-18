@@ -6,5 +6,4 @@ Here is some more text.
 
 This is a commit that will be pushed to the remote
 
-
-I'm actually just making this change directly at github.com.
+This is a change so I can do a pull request
